@@ -22,8 +22,6 @@ Translate the OASIS DITA specification into a reference guide your authors can u
 6. Use the template (provided) to provide informatoin about the element or attribute and how it's used on your team. DO NOT copy and paste the spec!
 7. Put all your tags together in a map or bookmap.
 8. Distribute to your team to gather and incorporate feedback.
-9. Use the dictionary to train and guide new writers.
-10. Edit, refine, update. Elements you decide on today may change or evolve 2 years from now. This is an iterative document.
 
 ## Best Practices
 * You don't have to use every tag (in fact, you won't), so don't try to rewrite the spec. Start with what needs clarification or has special usage.
@@ -31,3 +29,6 @@ Translate the OASIS DITA specification into a reference guide your authors can u
 * If an element has required or optional attributes, say which ones should be used and why/what it does. Reuse attribute defintions wherever possible.
 * Provide real, concrete, and replicatable examples, both using the elements in the source and showing the raw code (such as in a <screen> tag). Those using this information outside the source will thank you (some elements are invisible)!
 * Some elements are used as a pair or are closely related, so be sure to use related links or relationship tables to show those relationships.
+* Use the dictionary to train and guide new writers.
+* Edit, refine, update. Elements you decide on today may change or evolve 2 years from now. This is an iterative document.
+
